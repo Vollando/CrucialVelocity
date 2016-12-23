@@ -1,0 +1,54 @@
+Initialize engine version: 4.5.4f1 (e036f44c54c9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 8330 (ID=0x9832)
+    Vendor:   ATI
+    VRAM:     497 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\cvbch_000\Dropbox\Crucial Velocity\Crucial Velocity_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\cvbch_000\Dropbox\Crucial Velocity\Crucial Velocity_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\cvbch_000\Dropbox\Crucial Velocity\Crucial Velocity_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\cvbch_000\Dropbox\Crucial Velocity\Crucial Velocity_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.636 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+UnloadTime: 52.938091 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 10.662716 ms (FindLiveObjects: 0.064974 ms CreateObjectMapping: 0.054031 ms MarkObjects: 7.844175 ms  DeleteObjects: 0.459611 ms)
+
+detected sphere
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+detected block
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+detected sphere
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Quit
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
